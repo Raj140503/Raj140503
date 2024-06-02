@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Raj Nanasaheb Patil and I'm a Third-year Computer Engg. Student from Nashik, Maharashtra.</h2>
+<h2 align="center">Hi 👋! My name is Raj Nanasaheb Patil and I'm a Computer Engg. Student from Nashik, Maharashtra.</h2>
 
 ###
 
